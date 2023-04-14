@@ -92,9 +92,4 @@
 	button:hover {
 		opacity: 1;
 	}
-	
-	@media screen and (max-width:756px)
-	{
-
-	}
 </style>
